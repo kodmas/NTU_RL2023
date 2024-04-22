@@ -1,0 +1,3 @@
+swig 
+finrl @ git+https://github.com/AI4Finance-Foundation/FinRL.git@453349afc2ee5eac8cc7f5766638c50f595df2d0 
+yfinance 
